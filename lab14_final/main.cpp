@@ -1,5 +1,7 @@
 #include <iostream> 
 #include "worker.h"
+#include "WorkerBase.h"
+#include "input.h"
 
 int main() {
 
